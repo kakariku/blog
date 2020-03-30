@@ -1,6 +1,6 @@
 # blog
 
-> My divine Nuxt.js project
+> ブログホームページ
 
 ## Build Setup
 
